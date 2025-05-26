@@ -13,7 +13,6 @@ Este é um projeto desenvolvido como desafio em aula da faculdade Unisanta, util
 
 - C#
 - Windows Forms (WinForms)
-- API REST ViaCEP
 - Banco de Dados (ex: SQL Server ou SQLite)
 - DataGridView para visualização dos dados
 
